@@ -1,0 +1,5 @@
+/backend/node_module
+/src/node_module
+
+/backend/yarn.lock
+/src/yarn.lock
